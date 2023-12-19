@@ -13,13 +13,18 @@ MDPI Mathematics: Synthetic Data Generator for Solving Korean Arithmetic Word Pr
 **한국어 문장형 수학 문제 데이터 생성기**
 
 데이터 생성기의 개요는 다음 그림과 같다.
+
+
 ![그림4](https://github.com/kkkkkkkm/Korean-MWP/assets/69561492/1d844316-2074-4197-8675-85c8f72ece4e)
 
-각 문제 유형은 다음과 같은 세부 유형으로 이루어져 있다.
+각 문제 유형은 다음과 같은 세부 유형으로 이루어져 있다. 
+
+
 ![그림5](https://github.com/kkkkkkkm/Korean-MWP/assets/69561492/82c23891-7a56-4cf5-b372-5a3357b55721)
 
 
 데이터 생성기는 다음과 같은 방식으로 구현된다.
+
 
 - 정보 변환과 연산자 변환을 위해 문제에 들어갈 명사 혹은 연산자 단어를 담은 리스트 선언
 
