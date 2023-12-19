@@ -12,3 +12,4 @@ MDPI Mathematics: Synthetic Data Generator for Solving Korean Arithmetic Word Pr
 
 **한국어 문장형 수학 문제 데이터 생성기**
 
+![그림1](https://github.com/kkkkkkkm/Korean-MWP/assets/69561492/45e7625b-b3bf-47db-ac6f-e837b045ec8f)
