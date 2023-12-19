@@ -14,3 +14,12 @@ MDPI Mathematics: Synthetic Data Generator for Solving Korean Arithmetic Word Pr
 
 
 ![그림1](https://github.com/kkkkkkkm/Korean-MWP/assets/69561492/45e7625b-b3bf-47db-ac6f-e837b045ec8f)
+
+---
+![그림2](https://github.com/kkkkkkkm/Korean-MWP/assets/69561492/7168e56b-cbd2-4f4c-bcb1-3e89f7433625)
+
+---
+
+![그림3](https://github.com/kkkkkkkm/Korean-MWP/assets/69561492/440c9c2d-bc80-4a31-b88b-53eaef9032f4)
+
+---
