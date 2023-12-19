@@ -26,7 +26,7 @@ MDPI Mathematics: Synthetic Data Generator for Solving Korean Arithmetic Word Pr
 각 문제 유형은 다음과 같은 세부 유형으로 이루어져 있다. 
 
 
-<img src = https://github.com/kkkkkkkm/Korean-MWP/blob/main/imgs/%EA%B7%B8%EB%A6%BC5.png width = "30%" height = "40">
+<img src = https://github.com/kkkkkkkm/Korean-MWP/blob/main/imgs/%EA%B7%B8%EB%A6%BC5.png width = "60%" height = "80">
 
 
 데이터 생성기는 다음과 같은 방식으로 구현된다.
