@@ -30,6 +30,7 @@ MDPI Mathematics: Synthetic Data Generator for Solving Korean Arithmetic Word Pr
 
 
 **코드상 구현**
+
 데이터 생성기는 다음과 같은 방식으로 구현된다.
 
 
