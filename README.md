@@ -13,7 +13,7 @@ MDPI Mathematics: Synthetic Data Generator for Solving Korean Arithmetic Word Pr
  수학문제 풀이모델은 기계 번역 구조를 기반하며 Seq2Seq, Transoformer뿐만 아니라 음성인식에서 사용되는 Conformer 모델을 활용하여 각 모델 기반의 문제 풀이모델의 성능을 비교하고, 추가적인 실험을 통해 생성된 데이터의 유효성을 확인한다. 
 
 
-## 한국어 문장형 수학 문제 데이터 생성기
+## 한국어 문장형 수학문제 데이터 생성기
 
 데이터 생성기는 문제 유형과 어휘적 데이터 변환 방식으로 이루어져 있으며 다음 그림과 같다.
 
@@ -55,3 +55,5 @@ MDPI Mathematics: Synthetic Data Generator for Solving Korean Arithmetic Word Pr
 ![그림3](https://github.com/kkkkkkkm/Korean-MWP/assets/69561492/440c9c2d-bc80-4a31-b88b-53eaef9032f4)
 
 ---
+
+## 한국어 문장형 수학문제 풀이모델 
