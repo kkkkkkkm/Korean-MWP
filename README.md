@@ -68,3 +68,20 @@ MDPI Mathematics: Synthetic Data Generator for Solving Korean Arithmetic Word Pr
 
 ## 한국어 문장형 수학문제 풀이모델 
 
+**풀이모델에 활용된 세 가지 구조**
+
+* Seq2Seq 구조
+RNN 기반 인코더와 디코더로 이루어진 구조 입력 시퀀스를 다른 도메인의 시퀀스로 출력
+
+
+
+
+* Transformer 구조
+기존 RNN layer를 Attention으로 대체하여 RNN이 가진 기울기 소실과 GPU 병렬 계산의 어려움을 해소
+
+* Conformer 구조
+음성 인식에서 SOTA를 기록한 모델로, CNN의 지역적 특징 포착 능력과 Transformer의 전역적 특징 포착 능력을 융합한 모델
+본 논문에서는 Conformer 모델이 음성과 같이 순차적인 특성을 가지고 있는 자연어에서 단어의 의미와 문맥의 의미를 효과적으로 융합할 수 있을 것이라 사료하여 채택
+    
+
+
