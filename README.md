@@ -72,7 +72,7 @@ MDPI Mathematics: Synthetic Data Generator for Solving Korean Arithmetic Word Pr
 
 * Seq2Seq 구조: </br>
 RNN 기반 인코더와 디코더로 이루어진 구조 입력 시퀀스를 다른 도메인의 시퀀스로 출력
-
+<img src = https://github.com/kkkkkkkm/Korean-MWP/blob/main/imgs/%EC%A0%80%EB%84%90%20attention%202.png width = "100%" height = "100%">
 
 
 
@@ -82,6 +82,6 @@ RNN 기반 인코더와 디코더로 이루어진 구조 입력 시퀀스를 다
 * Conformer 구조: <br>
 음성 인식에서 SOTA를 기록한 모델로, CNN의 지역적 특징 포착 능력과 Transformer의 전역적 특징 포착 능력을 융합한 모델
 본 논문에서는 Conformer 모델이 음성과 같이 순차적인 특성을 가지고 있는 자연어에서 단어의 의미와 문맥의 의미를 효과적으로 융합할 수 있을 것이라 사료하여 채택
-    
+
 
 
