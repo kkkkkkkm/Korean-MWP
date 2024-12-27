@@ -28,6 +28,7 @@ MDPI Mathematics: Synthetic Data Generator for Solving Korean Arithmetic Word Pr
 
 <img src = https://github.com/kkkkkkkm/Korean-MWP/blob/main/imgs/%EA%B7%B8%EB%A6%BC5.png width = "100%" height = "100%">
 
+</br>
 
 **코드상 구현**
 
@@ -40,20 +41,29 @@ MDPI Mathematics: Synthetic Data Generator for Solving Korean Arithmetic Word Pr
 
 ![그림1](https://github.com/kkkkkkkm/Korean-MWP/assets/69561492/45e7625b-b3bf-47db-ac6f-e837b045ec8f)
 
+</br>
 ---
 
  
 - 접사 변환과 문장 순서 변환이 적용된 문제 프레임들을 담은 리스트 선언, 여기서 문제 프레임은 명사와 피연산자가 비워진 상태로 존재
 
+</br>
 
 ![그림2](https://github.com/kkkkkkkm/Korean-MWP/assets/69561492/7168e56b-cbd2-4f4c-bcb1-3e89f7433625)
 
+</br>
+
 ---
 
+</br>
 - 랜덤 알고리즘을 통해 피연산자와 각 리스트에서 값 선택, 이후 선택된 문제 프레임의 빈 슬롯에 값이 채워져 문제와 수식 생성 
+</br>
 
 ![그림3](https://github.com/kkkkkkkm/Korean-MWP/assets/69561492/440c9c2d-bc80-4a31-b88b-53eaef9032f4)
+
+</br>
 
 ---
 
 ## 한국어 문장형 수학문제 풀이모델 
+
