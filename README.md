@@ -56,10 +56,8 @@ MDPI Mathematics: Synthetic Data Generator for Solving Korean Arithmetic Word Pr
 
 </br>
 
----
-
-</br>
 - 랜덤 알고리즘을 통해 피연산자와 각 리스트에서 값 선택, 이후 선택된 문제 프레임의 빈 슬롯에 값이 채워져 문제와 수식 생성 
+
 </br>
 
 ![그림3](https://github.com/kkkkkkkm/Korean-MWP/assets/69561492/440c9c2d-bc80-4a31-b88b-53eaef9032f4)
