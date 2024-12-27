@@ -1,7 +1,7 @@
 <div align="center">
  
 # Korean-MWP
-MDPI Mathematics: Synthetic Data Generator for Solving Korean Arithmetic Word Problem 
+MDPI Mathematics: [Synthetic Data Generator for Solving Korean Arithmetic Word Problem](https://www.mdpi.com/2227-7390/10/19/3525) 
 </div>
 
 ---
