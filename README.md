@@ -33,6 +33,7 @@ MDPI Mathematics: Synthetic Data Generator for Solving Korean Arithmetic Word Pr
 
 </br>
 
+
 **코드상 구현**
 
 
@@ -45,7 +46,6 @@ MDPI Mathematics: Synthetic Data Generator for Solving Korean Arithmetic Word Pr
 ![그림1](https://github.com/kkkkkkkm/Korean-MWP/assets/69561492/45e7625b-b3bf-47db-ac6f-e837b045ec8f)
 
 </br>
----
 
  
 - 접사 변환과 문장 순서 변환이 적용된 문제 프레임들을 담은 리스트 선언, 여기서 문제 프레임은 명사와 피연산자가 비워진 상태로 존재
